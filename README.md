@@ -64,6 +64,30 @@ EXP 5 OUTPUT SWING EXERCISE 1: https://github.com/user-attachments/assets/57352b
 
 EXP 5 OUTPUT SWING EXERCISE 2: https://github.com/user-attachments/assets/50109f6f-7d3c-4ac1-b1bf-f37255485db6
 
+EXP 6 OUTPUT JLIST EXAMPLE 1: https://github.com/user-attachments/assets/ec4a35db-a20b-4e91-90ba-ef2b4c4ef7cf
+
+EXP 6 OUTPUT JLIST EXAMPLE 1: https://github.com/user-attachments/assets/fe4f5395-11ac-45a2-946f-bc8a75025905
+
+EXP 6 OUTPUT JLIST EXAMPLE 2: https://github.com/user-attachments/assets/7e2bcab1-8b16-47fa-8264-878b2552704a
+
+EXP 6 OUTPUT JLIST EXERCISE 1: https://github.com/user-attachments/assets/474cec50-3b1e-4c27-ba79-866e7811e4ee
+
+EXP 6 OUTPUT JLIST EXERCISE 1: https://github.com/user-attachments/assets/6b919d0a-0402-40bc-956d-f7773cfaf035
+
+EXP 6 OUTPUT JLIST EXERCISE 2: https://github.com/user-attachments/assets/b4406477-ea3f-4cb7-bab5-07cc239e0dca
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
