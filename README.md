@@ -48,6 +48,12 @@ EXP 2 OUTPUT TREE3: https://github.com/user-attachments/assets/af292c9f-03e4-4cf
 
 EXP 2 OUTPUT TREE4: https://github.com/user-attachments/assets/48a272d7-ad84-4a05-b046-3cc5a7c1be03
 
+EXP 3 OUTPUT STRINGHANDLING DEMO: https://github.com/user-attachments/assets/8c0cac30-4f50-401d-9aed-49187a4e8ea5
+
+EXP 3 OUTPUT STRINGHANDLING EXAMPLE: https://github.com/user-attachments/assets/14c646c9-f222-42b4-a419-cf18c6d2ef45
+
+
+
 
 
 
