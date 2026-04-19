@@ -52,6 +52,14 @@ EXP 3 OUTPUT STRINGHANDLING DEMO: https://github.com/user-attachments/assets/8c0
 
 EXP 3 OUTPUT STRINGHANDLING EXAMPLE: https://github.com/user-attachments/assets/14c646c9-f222-42b4-a419-cf18c6d2ef45
 
+EXP 4 OUTPUT STRING INTERVIEW: https://github.com/user-attachments/assets/c02774b1-9921-4329-855d-e6b7c1e6d5be
+
+EXP 4 OUTPUT PERFORMANCE TEST: https://github.com/user-attachments/assets/0f5ddd4f-5673-4ada-b8bd-e6e925265357
+
+
+
+
+
 
 
 
