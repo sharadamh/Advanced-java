@@ -12,6 +12,26 @@ EXP 1 OUTPUT ARRAYLIST4: https://github.com/user-attachments/assets/0d9b6081-75c
 
 EXP 1 OUTPUT ARRAYLIST5: https://github.com/user-attachments/assets/7009f6dd-3464-41fe-8c37-3a117188448f
 
+EXP1 OUTPUT LINKEDLIST1: https://github.com/user-attachments/assets/0b408640-9d07-49c7-afc7-f8ab8a296c50 
+
+EXP 1 OUTPUT LINKEDLIST2: https://github.com/user-attachments/assets/363b4e75-c05a-42aa-b661-73d530fc9d04 
+
+EXP 1 OUTPUT LINKEDLIST3: https://github.com/user-attachments/assets/12acf896-33b9-4b33-a0ff-238074b9761c
+
+EXP 1 OUTPUT LINKEDLIST4: https://github.com/user-attachments/assets/2b87805c-2047-434a-b593-9c316dff1a39
+
+EXP 1 OUTPUT LINKEDLIST5: https://github.com/user-attachments/assets/9c252444-e73f-4381-a4bd-5e5ccdfe963d
+
+
+
+
+
+
+
+
+
+
+
 
 
 
