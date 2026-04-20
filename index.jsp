@@ -1,41 +1,49 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-<!DOCTYPE html>
+<%@ page language="java" %>
 <html>
 <head>
-    <title>User Data Form</title>
-    <style>
-        .form-container {
-            width: 300px;
-            margin: 50px auto;
-            padding: 20px;
-            border: 1px solid #ccc;
+<title>Student Result</title>
+
+<script>
+function validateForm() {
+    let roll = document.forms["f"]["roll"].value;
+    let name = document.forms["f"]["name"].value;
+    let marks = document.getElementsByClassName("marks");
+
+    if (roll == "" || name == "") {
+        alert("All fields are required!");
+        return false;
+    }
+
+    for (let i = 0; i < marks.length; i++) {
+        let m = marks[i].value;
+        if (m == "" || m < 0 || m > 100) {
+            alert("Marks must be between 0 and 100");
+            return false;
         }
-        .form-field {
-            margin: 10px 0;
-        }
-    </style>
+    }
+    return true;
+}
+</script>
+
 </head>
 <body>
-    <div class="form-container">
-        <h2>Enter User Data</h2>
-        <form action="processUser" method="POST">
-            <div class="form-field">
-                <label for="username">Username       :</label>
-                <input type="text" id="username" name="username" required>
-            </div>
-            <div class="form-field">
-                <label for="email">Email           :</label>
-                <input type="email" id="email" name="email" required>
-            </div>
-            <div class="form-field">
-                <label for="designation">Designation     :</label>
-                <input type="text" id="designation" name="designation" required>
-            </div>
-            <div class="form-field">
-                <input type="submit" value="Submit">
-            </div>
-        </form>
-    </div>
+
+<h2>Enter Student Details</h2>
+
+<form name="f" action="ResultServlet" method="post" onsubmit="return validateForm()">
+
+Roll No: <input type="text" name="roll"><br><br>
+Name: <input type="text" name="name"><br><br>
+
+Sub1: <input type="number" class="marks" name="s1"><br><br>
+Sub2: <input type="number" class="marks" name="s2"><br><br>
+Sub3: <input type="number" class="marks" name="s3"><br><br>
+Sub4: <input type="number" class="marks" name="s4"><br><br>
+Sub5: <input type="number" class="marks" name="s5"><br><br>
+
+<input type="submit" value="Submit">
+
+</form>
+
 </body>
 </html>
-

@@ -1,40 +1,24 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-<!DOCTYPE html>
+<%@ page language="java" %>
 <html>
-<head>
-    <title>Result Page</title>
-    <style>
-        .result-container {
-            width: 300px;
-            margin: 50px auto;
-            padding: 20px;
-            border: 1px solid #ccc;
-        }
-        .message {
-            color: green;
-            margin-bottom: 20px;
-        }
-        .error {
-            color: red;
-        }
-    </style>
-</head>
 <body>
-    <div class="result-container">
-        <h2>Processing Result</h2>
-        <div class="${message.contains('error') ? 'error' : 'message'}">
-            <%= request.getAttribute("message") %>
-        </div>
-        
-        <% if(request.getAttribute("username") != null) { %>
-            <h3>Submitted Data:</h3>
-            <p>Username: <%= request.getAttribute("username") %></p>
-            <p>Email: <%= request.getAttribute("email") %></p>
-            <p>Designation: <%= request.getAttribute("designation") %></p>
-        <% } %>
-        
-        <a href="index.jsp">Back to Form</a>
-    </div>
+
+<h2>Student Result</h2>
+
+Roll No: ${roll} <br><br>
+Name: ${name} <br><br>
+
+Marks:<br>
+Sub1: ${s1} <br>
+Sub2: ${s2} <br>
+Sub3: ${s3} <br>
+Sub4: ${s4} <br>
+Sub5: ${s5} <br><br>
+
+Average: ${avg} <br><br>
+
+Result: <b>${result}</b> <br><br>
+
+<a href="index.jsp">Go Back</a>
+
 </body>
 </html>
-
