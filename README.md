@@ -76,6 +76,84 @@ EXP 6 OUTPUT JLIST EXERCISE 1: https://github.com/user-attachments/assets/6b919d
 
 EXP 6 OUTPUT JLIST EXERCISE 2: https://github.com/user-attachments/assets/b4406477-ea3f-4cb7-bab5-07cc239e0dca
 
+EXP 7B OUTPUT SERVLET EXAMPLE 2: https://github.com/user-attachments/assets/aed9d7a4-48d1-4a1c-ad37-9cb725ed064e
+
+EXP 7B OUTPUT SERVLET EXAMPLE 2: https://github.com/user-attachments/assets/7813969d-d9c7-441f-a615-be4da39b503c
+
+EXP 7B OUTPUT SERVLET EXAMPLE 2: https://github.com/user-attachments/assets/bc304505-bc90-43f7-b758-eff2c9455015
+
+EXP 8A,8B OUTPUT: https://github.com/user-attachments/assets/eaea18be-fc5e-4b9c-8b3d-0e4de9cc1e6a
+
+EXP 8A,8B OUTPUT: https://github.com/user-attachments/assets/2f8ba976-4a0b-4052-9ee8-a9fd19908626
+
+EXP 9A OUTPUT: https://github.com/user-attachments/assets/7f633a3c-79e9-4ce0-ae72-adfacef52f4b
+
+EXP 9C OUTPUT: https://github.com/user-attachments/assets/45e081cb-73e4-4b38-96ef-3a9fa6e56e69
+
+EXP 9C OUTPUT: https://github.com/user-attachments/assets/56963364-7e4a-4efe-82ca-36723b8a0069
+
+EXP 9C OUTPUT: https://github.com/user-attachments/assets/48d68c68-c291-4b97-a3f3-c50f761d687e
+
+EXP 9C OUTPUT: https://github.com/user-attachments/assets/5adf15bf-d90a-4523-9d7f-e9b97c20b247
+
+
+EXP 10A OUTPUT: https://github.com/user-attachments/assets/1511c7bc-fba1-4b8e-a051-df4396c7e99a
+
+EXP 10A OUTPUT: https://github.com/user-attachments/assets/8dff6b37-6a86-4153-bd17-b5368c0ea910
+
+  
+EXP 10B OUTPUT: https://github.com/user-attachments/assets/64986b36-f94d-40c2-b583-460696373dec
+
+EXP 10B OUTPUT: https://github.com/user-attachments/assets/0e9dda97-284f-4b93-9d3b-fda1793591a9
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
 
 
 
